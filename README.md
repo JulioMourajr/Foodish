@@ -93,4 +93,6 @@ This project is licensed under [MIT](https://opensource.org/licenses/MIT). Pleas
 
 editando no repo local para gerar conflito
 
+## Editei no repo online para gerar conflito.
+
 ###### [Foodish API](https://github.com/surhud004/Foodish) is maintained by [surhud004](https://github.com/surhud004).
